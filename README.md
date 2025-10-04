@@ -2,6 +2,8 @@
 
 **Keywords:** cessationism, continuationism, spiritual gifts, prophecy, tongues, charismatic theology, Reformed theology, pneumatology, sola Scriptura, biblical interpretation, 1 Corinthians 14, Acts 2, pentecostalism, Word and Spirit
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ---
 
 ## Table of Contents
@@ -468,3 +470,20 @@ Strict continuationism is the only position that submits fully to Scripture. The
 **Test everything. Hold fast what is good. Do not quench the Spirit.**
 
 This is not preference. This is not tradition. This is obedience.
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 VeritasVox | Licensed under CC BY 4.0
