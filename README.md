@@ -6,6 +6,18 @@
 
 ---
 
+## Abstract
+
+This paper argues that neither cessationism nor modern charismatic practice can claim unambiguous biblical support. Using rigorous grammatical-historical exegesis, it demonstrates that Scripture contains unrerevoked commands regarding spiritual gifts (1 Cor 14:1, 39; 1 Thess 5:19-21) which cessationists cannot dismiss through theological inference alone. The burden of proof lies on those claiming these standing apostolic imperatives have been revoked. However, the paper equally demonstrates that the vast majority of modern charismatic practice fails every biblical test Scripture establishes for the regulation of gifts.
+
+The position defended is neither traditional cessationism nor charismatic enthusiasm, but what might be called "provisional continuationism" or "open cessationism": gifts may continue in principle, but redemptive-historical patterns, grammatical distinctions (particularly the middle voice of γλῶσσαι παύσονται in 1 Cor 13:8), and eighteen centuries of near-universal rarity suggest they do not function with apostolic-era intensity as a normative expectation. Modern charismatic claims must pass rigorous biblical tests, which virtually none do. The primary means of grace remain Word, sacrament, and prayer—not spectacular manifestations.
+
+This paper rejects the false binary of "cessationist or charismatic" and calls the church to exegetical precision, theological humility, and pastoral wisdom: obeying commands where Scripture speaks clearly, exercising discernment where it allows ambiguity, and keeping the Word supreme over all experience.
+
+**Note:** The author's personal preference leans toward cessationism for its theological simplicity and pastoral safety. However, personal comfort cannot override textual warrant. Where Scripture commands without explicit revocation, submission is required regardless of preference. This paper follows the text where it leads, not where tradition or convenience would prefer it to go.
+
+---
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
